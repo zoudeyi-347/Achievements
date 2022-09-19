@@ -12,13 +12,10 @@ In this paper, we propose a novel perspective towards the hybrid algorithm about
 
 ## patents
 
-[(CN) A kind of lazy dimension reduction method, system and device (Patent acceptance)  2022](./patents/(Under Review) 一种惰性降维方法、系统、计算机设备及存储介质.docx)
-
-[(CN) A kind of double-sides anomaly detection chip and system (Patent acceptance) 2022](./patents/(Under Review) 一种服务器异常检测方法、装置、设备及可读存储介质.doc)
-
-[(CN) Method, system and device of chip design with machine learning assistance (Patent acceptance) 2021](./patents/(Under Review) 一种芯片辅助设计方法、装置、设备及可读介质 发客户.docx)
-
-(CN) A kind of action recognition based on video convolution method, system and device
+[(CN) A kind of lazy dimension reduction method, system and device (Patent acceptance)  2022](./patents/(Under Review) 一种惰性降维方法、系统、计算机设备及存储介质.docx)  
+[(CN) A kind of double-sides anomaly detection chip and system (Patent acceptance) 2022](./patents/(Under Review) 一种服务器异常检测方法、装置、设备及可读存储介质.doc)  
+[(CN) Method, system and device of chip design with machine learning assistance (Patent acceptance) 2021](./patents/(Under Review) 一种芯片辅助设计方法、装置、设备及可读介质 发客户.docx)  
+(CN) A kind of action recognition based on video convolution method, system and device  
 
 
 
