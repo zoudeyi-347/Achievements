@@ -1,7 +1,7 @@
 # Achievements 
 Achievements of academic on papers, patents, researches, etc 
 
-![Curriculum Vitae](./data/data_science_tech_resume_Lund.jpg)
+![Curriculum Vitae](./data/data_science_cv.jpg)
 
 
 
@@ -23,10 +23,11 @@ In this paper, we propose a novel perspective towards the hybrid algorithm about
 
 ## *Patents*
 ---
-(CN) A kind of lazy dimension reduction method, system and device (Patent acceptance)  2022  
-(CN) A kind of double-sides anomaly detection chip and system (Patent acceptance) 2022  
-(CN) Method, system and device of chip design with machine learning assistance (Patent acceptance) 2021  
+(CN) A kind of lazy dimension reduction method, system and device  2022  
+(CN) A kind of double-sides anomaly detection chip and system  2022  
+(CN) Method, system and device of chip design with machine learning assistance  2021  
 (CN) A kind of action recognition based on video convolution method, system and device 2022   
+(CN) A kind of self-adaptive optimization method, system and device 2023
 
 
 
